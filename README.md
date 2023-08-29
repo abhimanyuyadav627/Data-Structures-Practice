@@ -57,7 +57,6 @@ Throughout my practice, I've found the following resources particularly helpful:
 - [Love Babbar - Placement DSA Course](https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 
 
-
 ## Contact
 
 If you have any questions, suggestions, or just want to connect, you can reach me at [abhimanyuyadavnsit@gmail.com](mailto:abhimanyuyadavnsit@gmail.com).
